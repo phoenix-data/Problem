@@ -12,3 +12,4 @@
 
 4. Tradeoff of accuracy and F1 score ?
 
+5. For overfiting tradeof we can subtract the accuracy of train and test however then we will become vulnerable to fitting low accuracies as well
